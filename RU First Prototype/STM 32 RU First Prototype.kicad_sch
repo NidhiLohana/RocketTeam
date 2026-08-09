@@ -351,6 +351,1004 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "1776113-2:1776113-2"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -2.2904 6.1078 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "1776113-2"
+				(at -2.5422 -5.0844 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "1776113-2:TE_1776113-2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Comment" "1776113-2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MF" "TE Connectivity"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "2P,3.81MM,SIDE ENTRY,HIGH TMP | TE Connectivity 1776113-2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PART_REV" "P"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "1776113-2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=600396&manufacturer=TE Connectivity&part_name=1776113-2&search_term=None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "EU_RoHS_Compliance" "Compliant"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "TE CONNECTIVITY"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "1776113-2_0_0"
+				(rectangle
+					(start -2.54 -2.54)
+					(end 5.08 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 10.16 2.54 180)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "CJ3400:CJ3400"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 11.43 3.81 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" ""
+				(at 11.43 1.27 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "CJ3400:SOT95P240X115-3N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "MOSFET N Channel 30V 5.8A 1.4V @ 250uA 35m @ 5.8A,10V SOT-23(SOT-23-3) RoHS\n\nSource: https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-CJ3400_C19019.pdf  Datasheet"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CJ3400_1_0"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 5.08) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 5.588) (xy 5.842 4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 2.032) (xy 5.842 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 -0.508) (xy 5.842 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 -2.54) (xy 6.858 -3.048) (xy 6.858 -2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 6.35 2.54)
+					(radius 3.81)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 5.842 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 5.842 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin bidirectional line
+					(at 0 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 7.62 10.16 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 7.62 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "CMT-8530S-SMT:CMT-8530S-SMT"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LS"
+				(at -3.8224 8.919 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "CMT-8530S-SMT"
+				(at -3.8208 -11.4625 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "CMT-8530S-SMT:CUI_CMT-8530S-SMT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Same Sky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "8.5 mm, 3.6 Vo-p, 90 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/CMT-8530S-SMT-TR/Same+Sky/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "CMT-8530S-SMT-TR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=649163&manufacturer=Same Sky&part_name=CMT-8530S-SMT-TR&search_term=None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/CMT-8530S-SMT-TR/Same+Sky/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "CMT-8530S-SMT_0_0"
+				(polyline
+					(pts
+						(xy -0.635 1.27) (xy 0 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -1.27) (xy -0.635 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0.635 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy -0.635 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.27) (xy 0.635 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.27) (xy 1.905 3.175)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 3.175) (xy 1.905 -3.175)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 -3.175) (xy 0.635 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "-"
+					(at -1.9123 -3.8068 0)
+					(effects
+						(font
+							(size 1.7848 1.7848)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "+"
+					(at -1.9116 1.2744 0)
+					(effects
+						(font
+							(size 1.7841 1.7841)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "P"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "N"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Conn_01x04_Pin"
 			(pin_names
 				(offset 1.016)
@@ -586,196 +1584,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Connector:Screw_Terminal_01x02"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Screw_Terminal_01x02"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "screw terminal"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TerminalBlock*:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Screw_Terminal_01x02_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 0.508) (xy 0.508 -0.3302)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -2.54)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1674,167 +2482,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:Buzzer"
-			(pin_names
-				(offset 0.0254)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "BZ"
-				(at 3.81 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "Buzzer"
-				(at 3.81 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at -0.635 2.54 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at -0.635 2.54 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Buzzer, polarized"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "quartz resonator ceramic"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*Buzzer*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Buzzer_0_1"
-				(polyline
-					(pts
-						(xy -1.651 1.905) (xy -1.143 1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.397 2.159) (xy -1.397 1.651)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 3.175)
-					(mid 3.1612 0)
-					(end 0 -3.175)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.175) (xy 0 -3.175)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Buzzer_1_1"
-				(pin passive line
-					(at -2.54 2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C_Small_US"
 			(pin_numbers
 				(hide yes)
@@ -2364,155 +3011,6 @@
 					(at 3.81 0 180)
 					(length 2.54)
 					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:FerriteBead"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "FB"
-				(at -3.81 0.635 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "FerriteBead"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Ferrite bead"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "L ferrite bead inductor filter"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "FerriteBead_0_1"
-				(polyline
-					(pts
-						(xy -2.7686 0.4064) (xy -1.7018 2.2606) (xy 2.7686 -0.3048) (xy 1.6764 -2.159) (xy -2.7686 0.4064)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 1.2954)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.2192)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "FerriteBead_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.54)
-					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3328,6 +3826,277 @@
 						(effects
 							(font
 								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "LI0603G121R-10:LI0603G121R-10"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "E"
+				(at -7.6244 5.0815 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "LI0603G121R-10"
+				(at -7.63 -7.6266 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "LI0603G121R-10:FB_LI0603G121R-10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Laird"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "0.95 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "0603 Laird"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/LI0603G121R-10/Laird/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/LI0603G121R-10/Laird/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "LI0603G121R-10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=300869&manufacturer=Laird&part_name=LI0603G121R-10&search_term=None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "EMI Ferrite Chip Bead, 0603, 700MA, 120 Ohms @100MHz, DCR Max 0.20Ohm | Laird Performance Materials LI0603G121R-10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "Not in stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Laird"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "LI0603G121R-10_0_0"
+				(polyline
+					(pts
+						(xy -3.81 -1.27) (xy -1.27 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -3.81) (xy 3.81 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 3.81) (xy -3.81 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.27) (xy 1.27 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -5772,322 +6541,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Simulation_SPICE:NMOS"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 5.08 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "NMOS"
-				(at 5.08 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "N-MOSFET transistor, drain/source/gate"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Device" "NMOS"
-				(at 0 -17.145 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Type" "VDMOS"
-				(at 0 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=D 2=G 3=S"
-				(at 0 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "transistor NMOS N-MOS N-MOSFET simulation"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "NMOS_0_1"
-				(polyline
-					(pts
-						(xy 0.254 1.905) (xy 0.254 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.286) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 0.762 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.27) (xy 0.762 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.651 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 -1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "NMOS_1_1"
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Switch:SW_SPDT"
 			(pin_names
 				(offset 0)
@@ -6564,8 +7017,8 @@
 		(uuid 7768d1be-f1f9-4973-a966-a88fe4616734)
 	)
 	(rectangle
-		(start 82.55 154.94)
-		(end 143.51 180.34)
+		(start 107.95 167.64)
+		(end 168.91 193.04)
 		(stroke
 			(width 0)
 			(type default)
@@ -6577,7 +7030,7 @@
 	)
 	(rectangle
 		(start 175.26 134.62)
-		(end 236.22 160.02)
+		(end 236.22 165.1)
 		(stroke
 			(width 0)
 			(type default)
@@ -6753,7 +7206,7 @@
 	)
 	(text "CAN 1\n"
 		(exclude_from_sim no)
-		(at 134.874 177.038 0)
+		(at 160.274 189.738 0)
 		(effects
 			(font
 				(size 2.032 2.032)
@@ -6878,6 +7331,12 @@
 		(uuid "14f6722c-e8ae-4113-9a2d-50651263430b")
 	)
 	(junction
+		(at 119.38 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "160caadc-ef80-4b7c-9d68-4ec657d9bfa7")
+	)
+	(junction
 		(at 87.63 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6944,7 +7403,7 @@
 		(uuid "3e084b27-d560-4020-bad1-67918c385b11")
 	)
 	(junction
-		(at 123.19 171.45)
+		(at 148.59 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f2a8d3f-618f-4cc4-95a4-ce520f5e6e56")
@@ -6960,12 +7419,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44be694d-1ec4-4ed0-ad3c-2c1d60abfb78")
-	)
-	(junction
-		(at 55.88 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "492eed1c-bb14-4fe7-b988-e0f456f56281")
 	)
 	(junction
 		(at 144.78 151.13)
@@ -6986,6 +7439,12 @@
 		(uuid "4e52c5d5-5567-4a51-84fb-b186212b1314")
 	)
 	(junction
+		(at 55.88 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51b351ff-2ac2-4b28-81fa-5e902edef847")
+	)
+	(junction
 		(at 209.55 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6996,6 +7455,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5791b162-1eda-4a92-a866-db9c75a27244")
+	)
+	(junction
+		(at 115.57 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57d9db9e-132e-41fc-9dfd-1ab753ad1939")
 	)
 	(junction
 		(at 25.4 139.7)
@@ -7014,6 +7479,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e340161-9f67-4e00-a43b-e6880772ef93")
+	)
+	(junction
+		(at 185.42 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f12b4b5-40d3-40d6-b4cb-cb508209caf4")
 	)
 	(junction
 		(at 152.4 48.26)
@@ -7062,6 +7533,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7cf9d63e-513a-49fa-b3df-a86761a45b68")
+	)
+	(junction
+		(at 116.84 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d1340f2-05fa-47cd-848f-a96894a97603")
 	)
 	(junction
 		(at 142.24 48.26)
@@ -7134,6 +7611,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae196d27-5d5d-44a1-96aa-03c71e6e0012")
+	)
+	(junction
+		(at 186.69 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aef1247f-1dfa-4a5b-a903-85a11dcd65b1")
 	)
 	(junction
 		(at 154.94 21.59)
@@ -7214,7 +7697,7 @@
 		(uuid "d0739d70-ec12-4506-8127-c37aa8f938d0")
 	)
 	(junction
-		(at 132.08 156.21)
+		(at 157.48 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2992de6-3b77-4ff6-abba-2f2fa1ba9d9b")
@@ -7421,7 +7904,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 167.64) (xy 93.98 167.64)
+			(xy 116.84 180.34) (xy 119.38 180.34)
 		)
 		(stroke
 			(width 0)
@@ -7438,6 +7921,26 @@
 			(type default)
 		)
 		(uuid "096e35ec-dd2f-40dd-b340-1ffee62d3c3a")
+	)
+	(wire
+		(pts
+			(xy 71.12 156.21) (xy 71.12 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09bdfc45-7ec4-41aa-95de-7935446a9f74")
+	)
+	(wire
+		(pts
+			(xy 62.23 161.29) (xy 62.23 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aa31e21-eba4-4d13-9daf-75fe4e7ba5b0")
 	)
 	(wire
 		(pts
@@ -7571,6 +8074,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 144.78) (xy 186.69 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a223cc3-05aa-4c4c-b4a3-fdb5d8c78627")
+	)
+	(wire
+		(pts
 			(xy 205.74 63.5) (xy 205.74 64.77)
 		)
 		(stroke
@@ -7701,7 +8214,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 165.1) (xy 93.98 165.1)
+			(xy 116.84 177.8) (xy 119.38 177.8)
 		)
 		(stroke
 			(width 0)
@@ -7761,13 +8274,23 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 162.56) (xy 50.8 162.56)
+			(xy 71.12 161.29) (xy 68.58 161.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "39aa2fa1-04dc-4699-896e-d46c5b474c79")
+		(uuid "37cb2819-1c34-4b73-a9b3-7afe631aa53e")
+	)
+	(wire
+		(pts
+			(xy 189.23 156.21) (xy 186.69 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "381c907d-d047-44d5-a223-d5ded94a7988")
 	)
 	(wire
 		(pts
@@ -7851,7 +8374,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 144.78) (xy 186.69 144.78)
+			(xy 184.15 144.78) (xy 185.42 144.78)
 		)
 		(stroke
 			(width 0)
@@ -8041,6 +8564,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 157.48) (xy 189.23 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "606dd2cc-5604-4839-bdf6-2b74e34f0a68")
+	)
+	(wire
+		(pts
 			(xy 270.51 146.05) (xy 270.51 144.78)
 		)
 		(stroke
@@ -8071,7 +8604,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 162.56) (xy 132.08 161.29)
+			(xy 157.48 175.26) (xy 157.48 173.99)
 		)
 		(stroke
 			(width 0)
@@ -8081,7 +8614,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 167.64) (xy 93.98 168.91)
+			(xy 119.38 180.34) (xy 119.38 181.61)
 		)
 		(stroke
 			(width 0)
@@ -8131,7 +8664,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 168.91) (xy 123.19 171.45)
+			(xy 148.59 181.61) (xy 148.59 184.15)
 		)
 		(stroke
 			(width 0)
@@ -8201,6 +8734,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 157.48) (xy 185.42 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b5eb5a4-add5-4927-a399-e4950f16abb2")
+	)
+	(wire
+		(pts
 			(xy 154.94 21.59) (xy 160.02 21.59)
 		)
 		(stroke
@@ -8221,7 +8764,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 176.53) (xy 123.19 176.53)
+			(xy 132.08 189.23) (xy 148.59 189.23)
 		)
 		(stroke
 			(width 0)
@@ -8391,7 +8934,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 168.91) (xy 123.19 168.91)
+			(xy 144.78 181.61) (xy 148.59 181.61)
 		)
 		(stroke
 			(width 0)
@@ -8441,13 +8984,13 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 162.56) (xy 60.96 162.56)
+			(xy 123.19 93.98) (xy 124.46 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8500c705-a266-4f9f-919e-d9c81b5372b0")
+		(uuid "84bf656a-bcfe-4c32-9863-caf83e9ce9be")
 	)
 	(wire
 		(pts
@@ -8468,6 +9011,16 @@
 			(type default)
 		)
 		(uuid "86ccec4c-1c4a-4433-bb60-080522164288")
+	)
+	(wire
+		(pts
+			(xy 115.57 177.8) (xy 115.57 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87c2c712-124d-455f-b07d-7b740c9bd04e")
 	)
 	(wire
 		(pts
@@ -8541,6 +9094,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 144.78) (xy 185.42 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e16edaa-a482-49a7-aa43-8cebbe3da4a1")
+	)
+	(wire
+		(pts
 			(xy 120.65 48.26) (xy 127 48.26)
 		)
 		(stroke
@@ -8598,6 +9161,16 @@
 			(type default)
 		)
 		(uuid "907424c4-af9c-422a-b31a-13c770ba3b14")
+	)
+	(wire
+		(pts
+			(xy 143.51 48.26) (xy 143.51 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90eb9c4b-eafe-4b21-9a73-0c51350a707f")
 	)
 	(wire
 		(pts
@@ -8718,6 +9291,26 @@
 			(type default)
 		)
 		(uuid "98e4f601-dca9-4965-8727-8b8cb8877d02")
+	)
+	(wire
+		(pts
+			(xy 62.23 161.29) (xy 60.96 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99b8f2bf-4c49-4e81-ab40-8183052fc1cc")
+	)
+	(wire
+		(pts
+			(xy 151.13 46.99) (xy 158.75 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b02d1cf-3969-435c-b731-e77f991944d2")
 	)
 	(wire
 		(pts
@@ -8881,13 +9474,33 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 165.1) (xy 93.98 163.83)
+			(xy 114.3 180.34) (xy 115.57 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0413623-c7a0-456e-a4df-d32d37bf5542")
+	)
+	(wire
+		(pts
+			(xy 119.38 177.8) (xy 119.38 176.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b0c5311e-9768-48b6-8864-d03948377b95")
+	)
+	(wire
+		(pts
+			(xy 115.57 180.34) (xy 115.57 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b176f8ac-ecb5-4b79-8b11-27e366b6b93e")
 	)
 	(wire
 		(pts
@@ -8918,6 +9531,16 @@
 			(type default)
 		)
 		(uuid "b2441cf9-8412-4472-8434-5c7edee659fb")
+	)
+	(wire
+		(pts
+			(xy 151.13 48.26) (xy 151.13 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2605058-b1f6-4ac5-912d-c89b2947b5b0")
 	)
 	(wire
 		(pts
@@ -8981,6 +9604,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 170.18) (xy 55.88 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b71891ed-f84d-4c58-8dcc-ada4b01f7ab2")
+	)
+	(wire
+		(pts
 			(xy 39.37 43.18) (xy 40.64 43.18)
 		)
 		(stroke
@@ -9008,6 +9641,16 @@
 			(type default)
 		)
 		(uuid "b8ae1181-22d0-42cb-9e60-9562f177a817")
+	)
+	(wire
+		(pts
+			(xy 68.58 161.29) (xy 68.58 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb4df46a-695f-42ae-8c8c-cf64b93173f1")
 	)
 	(wire
 		(pts
@@ -9181,6 +9824,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 181.61) (xy 119.38 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb70f58d-160c-42ba-a414-0cb660855869")
+	)
+	(wire
+		(pts
 			(xy 279.4 143.51) (xy 279.4 144.78)
 		)
 		(stroke
@@ -9288,6 +9941,16 @@
 			(type default)
 		)
 		(uuid "d37df5aa-dac8-4ef7-baab-d19e5ee72f40")
+	)
+	(wire
+		(pts
+			(xy 118.11 184.15) (xy 119.38 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d40f6d83-35bd-4bc1-a064-9f08195f2345")
 	)
 	(wire
 		(pts
@@ -9411,6 +10074,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 46.99) (xy 158.75 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0614dd1-1d01-4cc2-8f90-74fb152f400f")
+	)
+	(wire
+		(pts
 			(xy 199.39 156.21) (xy 215.9 156.21)
 		)
 		(stroke
@@ -9431,7 +10104,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 176.53) (xy 123.19 171.45)
+			(xy 148.59 189.23) (xy 148.59 184.15)
 		)
 		(stroke
 			(width 0)
@@ -9511,6 +10184,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 148.59) (xy 186.69 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebea0b12-dd85-43c7-badd-d58843d2c72d")
+	)
+	(wire
+		(pts
 			(xy 80.01 22.86) (xy 74.93 22.86)
 		)
 		(stroke
@@ -9521,13 +10204,23 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 156.21) (xy 132.08 156.21)
+			(xy 132.08 168.91) (xy 157.48 168.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ed60b313-7043-4e0f-9851-1ca395e9a0df")
+	)
+	(wire
+		(pts
+			(xy 115.57 177.8) (xy 116.84 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee20e591-e9c5-4c44-9c99-a829b1374e64")
 	)
 	(wire
 		(pts
@@ -9571,6 +10264,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 156.21) (xy 60.96 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f00e9266-2aed-4a5e-ac14-dc3c7cdbd0c0")
+	)
+	(wire
+		(pts
 			(xy 215.9 151.13) (xy 212.09 151.13)
 		)
 		(stroke
@@ -9611,7 +10314,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 171.45) (xy 119.38 171.45)
+			(xy 148.59 184.15) (xy 144.78 184.15)
 		)
 		(stroke
 			(width 0)
@@ -9845,7 +10548,7 @@
 		(uuid "1b73705f-697a-40fb-8344-cb78809ce045")
 	)
 	(label "GND"
-		(at 132.08 162.56 180)
+		(at 157.48 175.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9865,7 +10568,7 @@
 		(uuid "24ce63a8-7d63-48ac-a3ca-c4ced4eb8892")
 	)
 	(label "CAN_TX"
-		(at 119.38 161.29 0)
+		(at 144.78 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9955,7 +10658,7 @@
 		(uuid "38ff0f1f-50dd-49c7-8915-237f239c3bac")
 	)
 	(label "CAN_H"
-		(at 92.71 165.1 90)
+		(at 115.57 177.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10128,7 +10831,7 @@
 		(uuid "629ded2f-894b-45f5-852d-56941c88b62e")
 	)
 	(label "V_DROGUE2"
-		(at 266.7 93.98 180)
+		(at 266.7 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10282,7 +10985,7 @@
 		(uuid "7f48f8aa-c584-444f-b663-93715e21040b")
 	)
 	(label "V_PYRO"
-		(at 266.7 91.44 180)
+		(at 266.7 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10323,7 +11026,7 @@
 		(uuid "88ace288-781b-4ac4-9dbf-fbfa2861b68c")
 	)
 	(label "CAN_RX"
-		(at 119.38 163.83 0)
+		(at 144.78 176.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10506,7 +11209,7 @@
 		(uuid "ae1f70d1-e8e3-42ff-aec8-dc94688c1dda")
 	)
 	(label "V_PYRO"
-		(at 266.7 71.12 180)
+		(at 266.7 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10527,7 +11230,7 @@
 		(uuid "b032fde2-85cc-4f55-962c-23624beb5caa")
 	)
 	(label "V_DROGUE"
-		(at 266.7 83.82 180)
+		(at 266.7 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10630,7 +11333,7 @@
 		(uuid "c0a3b874-b266-4307-9c55-17c03047fecf")
 	)
 	(label "GND"
-		(at 110.49 176.53 0)
+		(at 135.89 189.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10651,7 +11354,7 @@
 		(uuid "c47fedb8-6685-40c7-b54a-ac1974370e1c")
 	)
 	(label "V_PYRO"
-		(at 266.7 81.28 180)
+		(at 266.7 90.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10774,7 +11477,7 @@
 		(uuid "d8bfeb68-869a-4d00-b2f2-0b3f04c19c55")
 	)
 	(label "V_MAIN2"
-		(at 266.7 73.66 180)
+		(at 266.7 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10928,7 +11631,7 @@
 		(uuid "f25dddc5-23bf-46a8-979c-c1d75a77d3e9")
 	)
 	(label "CAN_L"
-		(at 92.71 167.64 270)
+		(at 114.3 180.34 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11143,7 +11846,7 @@
 			)
 		)
 		(property "Value" "TCAN330"
-			(at 195.58 157.734 0)
+			(at 200.152 158.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11337,76 +12040,6 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 271.78 63.5 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "11da5c99-1e2d-4b79-86aa-f10c045fe016")
-		(property "Reference" "J6"
-			(at 272.796 56.388 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Screw_Terminal"
-			(at 275.844 57.912 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.78 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 271.78 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2b70ba69-ec86-4faa-b9aa-29a66322b7e9")
-		)
-		(pin "2"
-			(uuid "d398c7b5-e688-4a5f-830e-5b27549938cb")
-		)
-		(instances
-			(project "STM 32 RU First Prototype"
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -12525,6 +13158,426 @@
 		)
 	)
 	(symbol
+		(lib_id "1776113-2:1776113-2")
+		(at 276.86 90.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "371ee827-c224-443d-b3fe-dbb1809f9809")
+		(property "Reference" "J7"
+			(at 274.574 86.614 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1776113-2"
+			(at 281.686 95.758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "1776113-2:TE_1776113-2"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1776113-2"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "2P,3.81MM,SIDE ENTRY,HIGH TMP | TE Connectivity 1776113-2"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" "P"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "1776113-2"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=600396&manufacturer=TE Connectivity&part_name=1776113-2&search_term=None"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "EU_RoHS_Compliance" "Compliant"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TE CONNECTIVITY"
+			(at 276.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2460b4a9-cbb5-4d14-ad74-44bd3b6c88bc")
+		)
+		(pin "1"
+			(uuid "5065e26c-a163-49e8-9679-d14857bb3173")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "1776113-2:1776113-2")
+		(at 276.86 76.2 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "37987280-aa35-491d-8c1e-a9706b88501f")
+		(property "Reference" "J6"
+			(at 274.574 72.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1776113-2"
+			(at 281.432 82.804 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "1776113-2:TE_1776113-2"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1776113-2"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "2P,3.81MM,SIDE ENTRY,HIGH TMP | TE Connectivity 1776113-2"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" "P"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "1776113-2"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=600396&manufacturer=TE Connectivity&part_name=1776113-2&search_term=None"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "EU_RoHS_Compliance" "Compliant"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TE CONNECTIVITY"
+			(at 276.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c0ea544e-a316-4e42-adbd-0c0f50301f3f")
+		)
+		(pin "1"
+			(uuid "712b1221-e5c2-485f-b440-48068f60c6e1")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SISA96DN-T1-GE3:SISA96DN-T1-GE3")
 		(at 209.55 80.01 0)
 		(unit 1)
@@ -12894,146 +13947,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 271.78 93.98 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "44cd4ce4-55c5-4c12-bdda-9040c913b239")
-		(property "Reference" "J9"
-			(at 272.796 86.868 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Screw_Terminal"
-			(at 275.844 88.392 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.78 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 271.78 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3a40d981-1469-4c30-940b-46e9a6ebaf1f")
-		)
-		(pin "2"
-			(uuid "13f7947c-b5ab-4544-bd52-7e41709c2b16")
-		)
-		(instances
-			(project "STM 32 RU First Prototype"
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 179.07 144.78 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45ca8b91-b7ea-4506-b5b1-177756c243d1")
-		(property "Reference" "J10"
-			(at 179.832 140.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 188.722 154.686 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
-			(at 179.07 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 179.07 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "78b236af-7c58-4d11-be24-4199058f9bbd")
-		)
-		(pin "2"
-			(uuid "fff2a168-d815-405b-962d-47f729620718")
-		)
-		(instances
-			(project "STM 32 RU First Prototype"
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 83.82 86.36 270)
 		(mirror x)
@@ -13165,76 +14078,6 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Buzzer")
-		(at 66.04 160.02 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "46e58b2b-26d9-495e-a2ea-093604e589b1")
-		(property "Reference" "BZ1"
-			(at 64.008 163.576 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Buzzer"
-			(at 62.992 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 68.58 160.655 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 68.58 160.655 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Buzzer, polarized"
-			(at 66.04 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f42b9411-8406-4f97-af83-8ab63d199d4e")
-		)
-		(pin "2"
-			(uuid "d1a21c5c-1e8e-444d-8b5f-8011f14e4da1")
-		)
-		(instances
-			(project ""
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "BZ1")
 					(unit 1)
 				)
 			)
@@ -13530,76 +14373,6 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 271.78 83.82 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "525f1ffa-06a7-44da-a2f9-288dfedbd406")
-		(property "Reference" "J8"
-			(at 272.796 76.708 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Screw_Terminal"
-			(at 275.844 78.232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.78 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 271.78 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c24fda0c-9088-4453-a01f-8730b59a6fac")
-		)
-		(pin "2"
-			(uuid "7cada17e-dc31-4a90-9a1b-0b45d348560e")
-		)
-		(instances
-			(project "STM 32 RU First Prototype"
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -14017,7 +14790,7 @@
 	)
 	(symbol
 		(lib_id "Interface_CAN_LIN:TCAN330")
-		(at 106.68 166.37 0)
+		(at 132.08 179.07 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14026,7 +14799,7 @@
 		(dnp no)
 		(uuid "65247048-dcc1-4321-b836-699151dce821")
 		(property "Reference" "U6"
-			(at 102.87 175.514 0)
+			(at 128.27 188.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14035,7 +14808,7 @@
 			)
 		)
 		(property "Value" "TCAN330"
-			(at 102.87 178.054 0)
+			(at 135.128 190.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14044,7 +14817,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 106.68 179.07 0)
+			(at 132.08 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14054,7 +14827,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tcan337.pdf"
-			(at 106.68 166.37 0)
+			(at 132.08 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14063,7 +14836,7 @@
 			)
 		)
 		(property "Description" "High-Speed CAN Transceiver, 1Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8"
-			(at 106.68 166.37 0)
+			(at 132.08 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14245,6 +15018,140 @@
 			(project ""
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 115.57 189.23 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6694d231-08d0-44db-8686-dff708b71ba5")
+		(property "Reference" "J10"
+			(at 120.904 188.722 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 117.602 191.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+			(at 115.57 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.57 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 115.57 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "edfbb3e3-a5aa-4925-aa37-6558ceba495f")
+		)
+		(pin "1"
+			(uuid "4029b1c7-163d-446a-b30a-31cdd38c98df")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 186.69 162.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "67d9e589-85eb-4374-8bc2-ab011a3306d3")
+		(property "Reference" "J9"
+			(at 184.912 162.052 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 188.722 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+			(at 186.69 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 186.69 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e15a768d-758d-45a4-b244-63f84a43bf9a")
+		)
+		(pin "1"
+			(uuid "179059d2-21f3-42b8-a2ff-bfd88139ec8f")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -15011,7 +15918,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal_25Mhz"
+		(property "Value" "Crystal_8Mhz"
 			(at 105.41 62.738 0)
 			(effects
 				(font
@@ -15069,7 +15976,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small_US")
-		(at 132.08 158.75 0)
+		(at 157.48 171.45 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15078,7 +15985,7 @@
 		(dnp no)
 		(uuid "7ee16e66-a8e6-4579-9f59-db153e7bd8bf")
 		(property "Reference" "C20"
-			(at 139.192 157.988 0)
+			(at 164.592 170.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15087,7 +15994,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 139.954 160.02 0)
+			(at 165.354 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15096,7 +16003,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 132.08 158.75 0)
+			(at 157.48 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15105,7 +16012,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 158.75 0)
+			(at 157.48 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15114,7 +16021,7 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 132.08 158.75 0)
+			(at 157.48 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15408,7 +16315,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 132.08 156.21 270)
+		(at 157.48 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15417,7 +16324,7 @@
 		(fields_autoplaced yes)
 		(uuid "86417ff5-2bba-4127-9b2d-5323fc151880")
 		(property "Reference" "#PWR023"
-			(at 128.27 156.21 0)
+			(at 153.67 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15426,7 +16333,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 135.89 156.2099 90)
+			(at 161.29 168.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15435,7 +16342,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 156.21 0)
+			(at 157.48 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15444,7 +16351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 156.21 0)
+			(at 157.48 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15453,7 +16360,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 132.08 156.21 0)
+			(at 157.48 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15612,6 +16519,164 @@
 		)
 	)
 	(symbol
+		(lib_id "CMT-8530S-SMT:CMT-8530S-SMT")
+		(at 66.04 156.21 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8cf68b36-e59f-49a0-8582-a93b6772eca6")
+		(property "Reference" "LS1"
+			(at 66.294 159.766 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CMT-8530S-SMT"
+			(at 67.056 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CMT-8530S-SMT:CUI_CMT-8530S-SMT"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Same Sky"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "8.5 mm, 3.6 Vo-p, 90 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CMT-8530S-SMT-TR/Same+Sky/view-part/?ref=snap"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "CMT-8530S-SMT-TR"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=649163&manufacturer=Same Sky&part_name=CMT-8530S-SMT-TR&search_term=None"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/CMT-8530S-SMT-TR/Same+Sky/view-part/?ref=eda"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "N"
+			(uuid "092d0f85-c281-4a0a-9c8d-087d22ee836e")
+		)
+		(pin "P"
+			(uuid "9e07e0a9-e9d7-46bf-bea8-dea7332f791d")
+		)
+		(instances
+			(project ""
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "LS1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 255.27 140.97 0)
 		(unit 1)
@@ -15676,6 +16741,216 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "1776113-2:1776113-2")
+		(at 276.86 105.41 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "91d3fa44-4807-4b4a-92cd-3bd92d07e5f1")
+		(property "Reference" "J8"
+			(at 274.066 101.092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1776113-2"
+			(at 281.94 110.998 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "1776113-2:TE_1776113-2"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1776113-2"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "2P,3.81MM,SIDE ENTRY,HIGH TMP | TE Connectivity 1776113-2"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" "P"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "1776113-2"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=600396&manufacturer=TE Connectivity&part_name=1776113-2&search_term=None"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "EU_RoHS_Compliance" "Compliant"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TE CONNECTIVITY"
+			(at 276.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f6913613-2a21-40a5-9ee4-bd4246c7bb3a")
+		)
+		(pin "1"
+			(uuid "fd08b3b1-ba12-400b-80b3-ae56883374b1")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -15956,76 +17231,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 86.36 165.1 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "96bee339-6597-4d15-9d1c-860199614f37")
-		(property "Reference" "J3"
-			(at 87.122 160.782 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 96.012 175.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
-			(at 86.36 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 86.36 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c7d24ff9-ab1d-475a-8192-0428e2d94581")
-		)
-		(pin "2"
-			(uuid "0c67e7e9-c0f9-4a09-8aec-c1dbdd4d75ea")
-		)
-		(instances
-			(project ""
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 154.94 20.32 0)
 		(unit 1)
@@ -16227,73 +17432,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:FerriteBead")
-		(at 147.32 48.26 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9c63fcfa-dd5c-4810-a3af-1f456547b669")
-		(property "Reference" "FB1"
-			(at 145.034 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120R"
-			(at 149.606 51.562 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 46.482 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ferrite bead"
-			(at 147.32 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "558d9d5d-478f-4ed2-88fc-25aee342c125")
-		)
-		(pin "2"
-			(uuid "2e9a46b4-12a4-433a-9d51-34ae80167e74")
-		)
-		(instances
-			(project ""
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "FB1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 30.48 168.91 0)
 		(unit 1)
@@ -16432,35 +17570,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 271.78 73.66 0)
-		(mirror x)
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 179.07 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a3e4bb17-b457-4845-8484-7c0269ad9202")
-		(property "Reference" "J7"
-			(at 272.796 66.548 0)
+		(uuid "a3566d4e-0516-41fd-91aa-d2d044b7adae")
+		(property "Reference" "J3"
+			(at 179.578 143.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "Screw_Terminal"
-			(at 275.844 68.072 0)
+		(property "Value" "Conn_01x02_Pin"
+			(at 176.784 146.812 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 271.78 73.66 0)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+			(at 179.07 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16469,7 +17604,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 271.78 73.66 0)
+			(at 179.07 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16477,25 +17612,92 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 271.78 73.66 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 179.07 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "709116f8-4b7e-4202-9040-3794d330e336")
 		)
 		(pin "2"
-			(uuid "84b9ce79-c0f9-4380-89b6-f26b816f4141")
+			(uuid "452f7e84-1ab6-480c-838b-ea7ed96da834")
+		)
+		(pin "1"
+			(uuid "68872769-6b98-4075-8526-5d73dfa1c28e")
 		)
 		(instances
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "J7")
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 111.76 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a514b690-1363-4f22-8afb-fd527534c649")
+		(property "Reference" "J11"
+			(at 111.506 175.514 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 109.474 179.832 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d3b9c8cf-ddc6-427b-8f85-f957c9ec6bca")
+		)
+		(pin "1"
+			(uuid "7587ab8d-8253-45f0-81d5-b8fa5dbc909d")
+		)
+		(instances
+			(project ""
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -17026,6 +18228,204 @@
 		)
 	)
 	(symbol
+		(lib_id "LI0603G121R-10:LI0603G121R-10")
+		(at 151.13 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "afce59a3-b9e1-4025-9021-3d357a15347e")
+		(property "Reference" "E1"
+			(at 151.13 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LI0603G121R-10"
+			(at 151.384 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LI0603G121R-10:FB_LI0603G121R-10"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Laird"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.95 mm"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603 Laird"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/LI0603G121R-10/Laird/view-part/?ref=eda"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "C"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LI0603G121R-10/Laird/view-part/?ref=snap"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "LI0603G121R-10"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=300869&manufacturer=Laird&part_name=LI0603G121R-10&search_term=None"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "EMI Ferrite Chip Bead, 0603, 700MA, 120 Ohms @100MHz, DCR Max 0.20Ohm | Laird Performance Materials LI0603G121R-10"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "Not in stock"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Laird"
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f5ecd982-0d89-4aba-959a-61f73ad9cc89")
+		)
+		(pin "1"
+			(uuid "99aab4f3-cb44-4076-9c85-e815d30b59e1")
+		)
+		(instances
+			(project ""
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "E1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 66.04 59.69 0)
 		(unit 1)
@@ -17426,76 +18826,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 271.78 53.34 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bef5f1bf-6efd-4cba-bc2b-6170c29fb614")
-		(property "Reference" "J5"
-			(at 272.796 46.228 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Screw_Terminal"
-			(at 275.844 47.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.78 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 271.78 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7d397b14-711d-4454-9820-d1f02528cdea")
-		)
-		(pin "2"
-			(uuid "178964d3-77eb-40c3-8f3e-844b54bda49e")
-		)
-		(instances
-			(project ""
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 41.91 35.56 90)
 		(unit 1)
@@ -17557,104 +18887,6 @@
 			(project ""
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Simulation_SPICE:NMOS")
-		(at 55.88 165.1 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c9f8a637-ee73-4bf5-a334-da5efdb855b7")
-		(property "Reference" "Q1"
-			(at 55.88 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NMOS"
-			(at 55.88 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 58.42 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-			(at 43.18 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "N-MOSFET transistor, drain/source/gate"
-			(at 55.88 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "NMOS"
-			(at 38.735 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" "VDMOS"
-			(at 36.83 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 40.64 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2cee7bce-d1c6-486e-8a62-bf9f3eb21995")
-		)
-		(pin "1"
-			(uuid "d84f60c9-253a-47c5-a693-2f6415974809")
-		)
-		(pin "3"
-			(uuid "7a6f21aa-81ba-48e5-9ee8-26a409fec786")
-		)
-		(instances
-			(project ""
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -17956,6 +19188,283 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "1776113-2:1776113-2")
+		(at 276.86 60.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d234801a-987b-41de-a7d5-5aaf3c6fea6f")
+		(property "Reference" "J12"
+			(at 274.066 56.642 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1776113-2"
+			(at 281.686 67.564 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "1776113-2:TE_1776113-2"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "1776113-2"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "TE Connectivity"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "2P,3.81MM,SIDE ENTRY,HIGH TMP | TE Connectivity 1776113-2"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" "P"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "1776113-2"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=600396&manufacturer=TE Connectivity&part_name=1776113-2&search_term=None"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "EU_RoHS_Compliance" "Compliant"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "TE CONNECTIVITY"
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a0427459-37c8-4f2b-a1df-2741d475b73a")
+		)
+		(pin "1"
+			(uuid "ea5c6f53-e5ac-4a9d-850c-4d01811129a8")
+		)
+		(instances
+			(project ""
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 271.78 53.34 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d2638939-61a3-4bf2-b053-9c3e6b8cb774")
+		(property "Reference" "J5"
+			(at 273.304 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 277.876 48.514 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+			(at 271.78 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 271.78 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 271.78 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "376c1c36-edbd-4637-bb71-e043051ffb6f")
+		)
+		(pin "1"
+			(uuid "9cd77828-de74-4368-93c3-8a25ddcbb2e5")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -18361,6 +19870,77 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CJ3400:CJ3400")
+		(at 52.07 170.18 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e1ca19c7-87a8-4745-b10c-6ee80428744b")
+		(property "Reference" "Q5"
+			(at 54.356 157.48 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 54.356 153.67 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Footprint" "CJ3400:SOT95P240X115-3N"
+			(at 52.07 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MOSFET N Channel 30V 5.8A 1.4V @ 250uA 35m @ 5.8A,10V SOT-23(SOT-23-3) RoHS\n\nSource: https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-CJ3400_C19019.pdf  Datasheet"
+			(at 52.07 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6655c76a-4987-41f6-87c6-91fae0186ed9")
+		)
+		(pin "2"
+			(uuid "7d5d4b48-e321-4ee3-a57b-508f72e141ca")
+		)
+		(pin "3"
+			(uuid "64244408-5dde-47c1-b613-8b73d27dd32b")
+		)
+		(instances
+			(project ""
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "Q5")
 					(unit 1)
 				)
 			)
