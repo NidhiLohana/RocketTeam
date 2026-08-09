@@ -12505,7 +12505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SISA96DN-T1-GE3:SIS862DNT1GE3"
+		(property "Footprint" "SISA96DN-T1:SIS862DNT1GE3"
 			(at 208.28 50.8 0)
 			(effects
 				(font
@@ -13603,7 +13603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SISA96DN-T1-GE3:SIS862DNT1GE3"
+		(property "Footprint" "SISA96DN-T1:SIS862DNT1GE3"
 			(at 209.55 80.01 0)
 			(effects
 				(font
@@ -14379,6 +14379,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 271.78 26.67 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4d331257-221a-4e77-8471-50433c40f95e")
+		(property "Reference" "D5"
+			(at 271.78 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 273.05 23.622 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-128"
+			(at 271.78 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 271.78 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 271.78 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "507238c6-a293-4c65-94b5-dbf542c6d3b1")
+		)
+		(pin "1"
+			(uuid "7586a468-49b7-4e25-aa63-33fb1fdfddda")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small_US")
 		(at 109.22 50.8 0)
 		(unit 1)
@@ -14972,7 +15040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
 			(at 163.83 21.59 0)
 			(effects
 				(font
@@ -15158,74 +15226,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 271.78 26.67 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6b677d9d-a6ab-4af4-a65c-36661067f906")
-		(property "Reference" "D5"
-			(at 271.78 29.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_Schottky"
-			(at 271.526 23.368 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 271.78 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 271.78 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8405faf7-3229-4f65-ac0c-9dfcbbe59f86")
-		)
-		(pin "1"
-			(uuid "e59c44d7-7111-4407-b104-303d757c8786")
-		)
-		(instances
-			(project "STM 32 RU First Prototype"
-				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small_US")
 		(at 30.48 157.48 90)
 		(unit 1)
@@ -15385,7 +15385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SISA96DN-T1-GE3:SIS862DNT1GE3"
+		(property "Footprint" "SISA96DN-T1:SIS862DNT1GE3"
 			(at 207.01 22.86 0)
 			(effects
 				(font
@@ -15756,7 +15756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SISA96DN-T1-GE3:SIS862DNT1GE3"
+		(property "Footprint" "SISA96DN-T1:SIS862DNT1GE3"
 			(at 209.55 107.95 0)
 			(effects
 				(font
@@ -15926,7 +15926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_7050-4Pin_7.0x5.0mm"
 			(at 95.25 67.31 0)
 			(effects
 				(font
@@ -16406,7 +16406,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-128"
 			(at 85.09 20.32 0)
 			(effects
 				(font
@@ -16415,7 +16415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 85.09 20.32 0)
 			(effects
 				(font
@@ -19052,7 +19052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LGA12_2X2X0P9_ROM"
+		(property "Footprint" "KX134-1211:XDCR_KX003-1077"
 			(at 29.21 125.73 0)
 			(effects
 				(font
@@ -20111,7 +20111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-128"
 			(at 48.26 30.48 0)
 			(effects
 				(font
@@ -20120,7 +20120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 48.26 30.48 0)
 			(effects
 				(font
