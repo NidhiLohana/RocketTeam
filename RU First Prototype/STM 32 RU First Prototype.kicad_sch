@@ -8004,16 +8004,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 147.32) (xy 186.69 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15f88820-6830-4154-90b7-4c677f56e2a9")
-	)
-	(wire
-		(pts
 			(xy 142.24 53.34) (xy 144.78 53.34)
 		)
 		(stroke
@@ -8754,6 +8744,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 147.32) (xy 186.69 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ca657b2-5cb4-4277-a3fe-b0d4aff5f579")
+	)
+	(wire
+		(pts
 			(xy 40.64 50.8) (xy 39.37 50.8)
 		)
 		(stroke
@@ -9091,16 +9091,6 @@
 			(type default)
 		)
 		(uuid "8c481c14-e552-49e4-bf14-2b3a31c0bb5b")
-	)
-	(wire
-		(pts
-			(xy 185.42 144.78) (xy 185.42 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e16edaa-a482-49a7-aa43-8cebbe3da4a1")
 	)
 	(wire
 		(pts
@@ -9721,6 +9711,16 @@
 			(type default)
 		)
 		(uuid "bff36ff2-a42e-43a1-8d27-27ec49781d19")
+	)
+	(wire
+		(pts
+			(xy 185.42 144.78) (xy 185.42 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0676a9f-b373-48e2-9319-ea909403fb1b")
 	)
 	(wire
 		(pts
@@ -10588,7 +10588,7 @@
 		(uuid "287fecdd-7bc0-48f1-bf7b-af6026e18edb")
 	)
 	(label "CAN_L2"
-		(at 185.42 147.32 270)
+		(at 186.69 149.86 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13966,7 +13966,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 89.408 86.106 90)
+			(at 90.17 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15160,7 +15160,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 186.69 162.56 90)
+		(at 189.23 162.56 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15168,7 +15169,7 @@
 		(dnp no)
 		(uuid "67d9e589-85eb-4374-8bc2-ab011a3306d3")
 		(property "Reference" "J9"
-			(at 184.912 162.052 0)
+			(at 191.008 162.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15176,7 +15177,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 188.722 163.83 90)
+			(at 187.198 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15184,7 +15185,7 @@
 			)
 		)
 		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
-			(at 186.69 162.56 0)
+			(at 189.23 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15193,7 +15194,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 162.56 0)
+			(at 189.23 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15202,7 +15203,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 186.69 162.56 0)
+			(at 189.23 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17571,7 +17572,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 179.07 144.78 0)
+		(at 179.07 147.32 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17579,7 +17581,7 @@
 		(dnp no)
 		(uuid "a3566d4e-0516-41fd-91aa-d2d044b7adae")
 		(property "Reference" "J3"
-			(at 179.578 143.002 0)
+			(at 179.578 149.098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17587,7 +17589,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 176.784 146.812 90)
+			(at 176.784 145.288 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17595,7 +17597,7 @@
 			)
 		)
 		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
-			(at 179.07 144.78 0)
+			(at 179.07 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17604,7 +17606,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 144.78 0)
+			(at 179.07 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17613,7 +17615,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 179.07 144.78 0)
+			(at 179.07 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
