@@ -1,4 +1,4 @@
-26801126829001798
+26806490304703542
 1_Buzzer
 Buzzer_D30mm_H20mm_P15mm__668-1652-ND__AI-3035-TT-12V-R
 
@@ -61445,6 +61445,27 @@ XCVR_E22-900M30S
 0
 22
 22
+ESDCAN02-2BWY
+SOT323-3L_STM
+
+ESDCAN02-2BWY 
+0
+3
+3
+ESDCAN02-2BWY
+SOT323-3L_STM-L
+
+ESDCAN02-2BWY 
+0
+3
+3
+ESDCAN02-2BWY
+SOT323-3L_STM-M
+
+ESDCAN02-2BWY 
+0
+3
+3
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
