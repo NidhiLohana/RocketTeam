@@ -8479,12 +8479,12 @@
 		(uuid "480e947f-0ccb-479f-abdf-4aad26aa2b7e")
 	)
 	(no_connect
-		(at 124.46 106.68)
-		(uuid "6bf619cd-dd98-4013-9ba1-904720350500")
-	)
-	(no_connect
 		(at 124.46 119.38)
 		(uuid "6d96c761-b373-4761-9375-bdc4bf1a6241")
+	)
+	(no_connect
+		(at 165.1 88.9)
+		(uuid "6eec8452-bd90-43cd-b4b4-21391c06db90")
 	)
 	(no_connect
 		(at 124.46 81.28)
@@ -8511,12 +8511,12 @@
 		(uuid "a26d32b2-febe-4bea-9a63-21077fcf03d4")
 	)
 	(no_connect
-		(at 165.1 68.58)
-		(uuid "a8b60288-f6fb-4fff-9efd-81ae3f897ea2")
-	)
-	(no_connect
 		(at 124.46 86.36)
 		(uuid "bc585c69-29e7-4e70-823c-5f905449d497")
+	)
+	(no_connect
+		(at 124.46 111.76)
+		(uuid "ce2e1815-fb2b-4955-893b-46d7fccab296")
 	)
 	(no_connect
 		(at 165.1 106.68)
@@ -11640,12 +11640,12 @@
 		(uuid "27635746-7126-4c79-a421-b90720c6b789")
 	)
 	(label "KX_SCK"
-		(at 124.46 104.14 180)
+		(at 165.1 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "287fecdd-7bc0-48f1-bf7b-af6026e18edb")
 	)
@@ -12056,12 +12056,12 @@
 		(uuid "74d7e943-bfeb-4ff4-b108-314caf5d205e")
 	)
 	(label "PB15"
-		(at 165.1 142.24 0)
+		(at 124.46 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "77f7bdf2-956d-4cab-91fc-ac17f0e358b1")
 	)
@@ -12117,12 +12117,12 @@
 		(uuid "7f0424df-62ea-4d49-b640-81c309a5713d")
 	)
 	(label "mLED"
-		(at 124.46 109.22 180)
+		(at 165.1 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "7f48f8aa-c584-444f-b663-93715e21040b")
 	)
@@ -12443,7 +12443,7 @@
 		(uuid "b6f35d1a-c3a2-4667-a7c8-3f0ec9aa9d99")
 	)
 	(label "Drogue2"
-		(at 124.46 111.76 180)
+		(at 124.46 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12924,13 +12924,13 @@
 		(uuid "fa22379a-6063-4b8d-9cc6-c8db4b06ab33")
 	)
 	(label "Drogue"
-		(at 165.1 88.9 0)
+		(at 124.46 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "fbd4a7bc-ddad-45b6-aaf1-305f36fd623a")
 	)
