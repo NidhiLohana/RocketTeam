@@ -11729,16 +11729,6 @@
 		)
 		(uuid "34aefd5d-9dd9-49b0-83b3-b75df88bbfc7")
 	)
-	(label "PC6"
-		(at 254 143.51 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "38ff0f1f-50dd-49c7-8915-237f239c3bac")
-	)
 	(label "CAN_H"
 		(at 114.3 177.8 90)
 		(effects
@@ -12004,6 +11994,16 @@
 		)
 		(uuid "6fcc4f99-e619-49db-b0a7-aaee2ad4c90d")
 	)
+	(label "PC7"
+		(at 254 143.51 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6fd8cc8b-11c3-4b8a-9dd2-8c32675d4a65")
+	)
 	(label "OSC_IN"
 		(at 110.49 67.31 180)
 		(effects
@@ -12055,8 +12055,8 @@
 		)
 		(uuid "74d7e943-bfeb-4ff4-b108-314caf5d205e")
 	)
-	(label "PB15"
-		(at 124.46 104.14 180)
+	(label "PC6"
+		(at 124.46 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12227,6 +12227,16 @@
 			(justify right bottom)
 		)
 		(uuid "8d753790-3d60-45d3-bb48-27ef1a6d2fdd")
+	)
+	(label "PC6"
+		(at 279.4 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8f9f54f9-88f0-48a4-8688-f48887c8b626")
 	)
 	(label "GND"
 		(at 87.63 146.05 0)
@@ -12830,16 +12840,6 @@
 		)
 		(uuid "e8156355-6047-4a4a-8ca4-e967be5d5f97")
 	)
-	(label "PB15"
-		(at 279.4 143.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e8f92b6c-5bb4-44a1-97ee-6895bfb10a49")
-	)
 	(label "GND"
 		(at 270.51 151.13 270)
 		(effects
@@ -12934,8 +12934,8 @@
 		)
 		(uuid "fbd4a7bc-ddad-45b6-aaf1-305f36fd623a")
 	)
-	(label "PC6"
-		(at 124.46 101.6 180)
+	(label "PC7"
+		(at 124.46 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16663,7 +16663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 116.84 196.85 0)
 			(effects
 				(font
@@ -16731,7 +16731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 189.23 170.18 0)
 			(effects
 				(font
@@ -17887,7 +17887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 69.85 20.32 0)
 			(effects
 				(font
@@ -19417,7 +19417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 172.72 152.4 0)
 			(effects
 				(font
@@ -19485,7 +19485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 93.98 180.34 0)
 			(effects
 				(font
@@ -21457,7 +21457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 271.78 53.34 0)
 			(effects
 				(font
