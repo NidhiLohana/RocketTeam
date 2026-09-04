@@ -8714,6 +8714,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 60.96) (xy 266.7 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26d92d81-823d-4338-a8f8-3b511b388334")
+	)
+	(wire
+		(pts
 			(xy 101.6 166.37) (xy 101.6 167.64)
 		)
 		(stroke
@@ -8984,6 +8994,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 73.66) (xy 265.43 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bdef577-44a2-4065-a438-3e50d92786e4")
+	)
+	(wire
+		(pts
 			(xy 102.87 67.31) (xy 110.49 67.31)
 		)
 		(stroke
@@ -9001,6 +9021,16 @@
 			(type default)
 		)
 		(uuid "4db10545-ed6b-4d0e-af2c-7052562acb95")
+	)
+	(wire
+		(pts
+			(xy 260.35 53.34) (xy 266.7 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e40f14e-654c-41bb-8547-f0227be9f7b7")
 	)
 	(wire
 		(pts
@@ -9364,6 +9394,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 20.32) (xy 81.28 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72f7a731-2c47-432e-81fc-718e811d7795")
+	)
+	(wire
+		(pts
 			(xy 234.95 87.63) (xy 234.95 86.36)
 		)
 		(stroke
@@ -9544,6 +9584,16 @@
 	)
 	(wire
 		(pts
+			(xy 260.35 50.8) (xy 266.7 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81c2aaf0-55bb-4e53-b729-b1954d3b4e70")
+	)
+	(wire
+		(pts
 			(xy 157.48 48.26) (xy 163.83 48.26)
 		)
 		(stroke
@@ -9661,16 +9711,6 @@
 			(type default)
 		)
 		(uuid "8e957778-cb1b-4282-8970-ad017ccbaae2")
-	)
-	(wire
-		(pts
-			(xy 74.93 20.32) (xy 81.28 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ebfe0b7-c54a-4fe5-b878-349c6ba5429b")
 	)
 	(wire
 		(pts
@@ -9904,6 +9944,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 76.2) (xy 265.43 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c44237-7a84-46aa-bb4f-9b671c6baf4d")
+	)
+	(wire
+		(pts
 			(xy 209.55 67.31) (xy 234.95 67.31)
 		)
 		(stroke
@@ -9971,6 +10021,16 @@
 			(type default)
 		)
 		(uuid "a8de8c11-6f3d-4d8e-9c16-febceccdfaa5")
+	)
+	(wire
+		(pts
+			(xy 114.3 20.32) (xy 114.3 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8e4795d-62cc-4468-92c6-ed3b1d6ba4c4")
 	)
 	(wire
 		(pts
@@ -10091,6 +10151,16 @@
 			(type default)
 		)
 		(uuid "b5703b8c-8a1d-499d-8f12-fc9baf8d1724")
+	)
+	(wire
+		(pts
+			(xy 95.25 20.32) (xy 88.9 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b593131c-6918-4e0f-89da-38fa1071e955")
 	)
 	(wire
 		(pts
@@ -10311,6 +10381,16 @@
 			(type default)
 		)
 		(uuid "c53b1f1b-b30c-4ac2-8511-1445f9dde7a5")
+	)
+	(wire
+		(pts
+			(xy 260.35 63.5) (xy 266.7 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c55441d1-55d6-4da3-ae6c-aa1dd1dc1573")
 	)
 	(wire
 		(pts
@@ -10893,12 +10973,12 @@
 		(uuid "01c95478-6a48-4edb-8f42-de99957da842")
 	)
 	(label "V_IN"
-		(at 88.9 20.32 0)
+		(at 95.25 20.32 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "03ecca28-13b8-48b1-9744-89a62456d4d7")
 	)
@@ -10984,7 +11064,7 @@
 		(uuid "11b63ef0-d738-40a8-9b02-a4128bfea251")
 	)
 	(label "V_PYRO"
-		(at 266.7 60.96 180)
+		(at 259.08 60.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11185,7 +11265,7 @@
 		(uuid "39b06c5c-2600-4cf0-bb2f-330d9adc1b7b")
 	)
 	(label "V_2S"
-		(at 76.2 20.32 0)
+		(at 78.74 20.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11782,7 +11862,7 @@
 		(uuid "b032fde2-85cc-4f55-962c-23624beb5caa")
 	)
 	(label "V_DROGUE"
-		(at 266.7 92.71 180)
+		(at 259.08 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11863,7 +11943,7 @@
 		(uuid "bd309136-c59a-4964-bf37-0cccd6ba5d1b")
 	)
 	(label "V_2S"
-		(at 266.7 50.8 180)
+		(at 260.35 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11905,7 +11985,7 @@
 		(uuid "c47fedb8-6685-40c7-b54a-ac1974370e1c")
 	)
 	(label "V_PYRO"
-		(at 266.7 90.17 180)
+		(at 259.08 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11914,6 +11994,17 @@
 			(justify right bottom)
 		)
 		(uuid "c6b91778-24ee-425e-87a5-16b7c5b42df5")
+	)
+	(label "V_MAIN"
+		(at 238.76 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left bottom)
+		)
+		(uuid "c8990b09-7ef1-472b-8383-146ea6cf1a0a")
 	)
 	(label "V_DROGUE"
 		(at 270.51 129.54 0)
@@ -11997,7 +12088,7 @@
 		(uuid "d5071391-d0b2-455c-8dee-21eaf0357aae")
 	)
 	(label "V_MAIN"
-		(at 266.7 63.5 180)
+		(at 260.35 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12239,7 +12330,7 @@
 		(uuid "f8ec13de-da69-4685-a0a6-8baaf86bbc82")
 	)
 	(label "V_PYRO"
-		(at 266.7 53.34 180)
+		(at 260.35 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12279,6 +12370,377 @@
 			(justify left bottom)
 		)
 		(uuid "fea36198-4575-4182-b0e9-339cdf583247")
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 76.2 20.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0620fa33-7d84-489a-ac4a-18e50868e344")
+		(property "Netclass" "HighC"
+			(at 76.8985 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -16.51 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 262.89 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0a42fcb5-6abc-4c39-b693-0398eb08a5a7")
+		(property "Netclass" "HighC"
+			(at 263.5885 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 170.18 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 262.89 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2066fee0-28e0-40ae-8960-4a74b10dd1bf")
+		(property "Netclass" "HighC"
+			(at 263.5885 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 170.18 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 234.95 80.01 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "299d4541-1642-425b-ae9b-a2ea3ff6e726")
+		(property "Netclass" "HighC"
+			(at 237.49 79.3115 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 142.24 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 261.62 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "56719258-2176-4866-a698-3512d501e743")
+		(property "Netclass" "HighC"
+			(at 262.3185 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 168.91 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 90.17 20.32 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6da34157-3fe2-4242-8101-4463cd3c63d3")
+		(property "Netclass" "HighC"
+			(at 90.8685 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -2.54 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 234.95 50.8 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "82cfe6ce-eca0-45b1-a976-1e572d415b6b")
+		(property "Netclass" "HighC"
+			(at 237.49 50.1015 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 142.24 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 262.89 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "867327b1-a251-4a66-b669-83a0d22879aa")
+		(property "Netclass" "HighC"
+			(at 263.5885 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 170.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 114.3 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ec6a223-e8bb-4e05-ad37-95876c06dc8a")
+		(property "Netclass" "HighC"
+			(at 115.062 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 21.59 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 40.64 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd9daf85-9220-43d5-bf2a-61845e67e099")
+		(property "Netclass" "HighC"
+			(at 41.3385 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -52.07 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 262.89 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c0b27d71-d16c-4327-8911-f0071ac9410d")
+		(property "Netclass" "HighC"
+			(at 263.5885 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 170.18 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 262.89 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f30e01aa-e1f0-4461-ad6a-707fe99fe1bb")
+		(property "Netclass" "HighC"
+			(at 263.5885 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 170.18 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -13793,7 +14255,7 @@
 	)
 	(symbol
 		(lib_id "1776113-2:1776113-2")
-		(at 276.86 90.17 180)
+		(at 275.59 73.66 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13801,7 +14263,7 @@
 		(dnp no)
 		(uuid "371ee827-c224-443d-b3fe-dbb1809f9809")
 		(property "Reference" "J7"
-			(at 274.574 86.614 0)
+			(at 273.304 70.104 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13810,7 +14272,7 @@
 			)
 		)
 		(property "Value" "1776113-2"
-			(at 281.686 95.758 90)
+			(at 280.416 79.248 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13819,7 +14281,7 @@
 			)
 		)
 		(property "Footprint" "1776113-2:TE_1776113-2"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13829,7 +14291,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13838,7 +14300,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13847,7 +14309,7 @@
 			)
 		)
 		(property "Comment" "1776113-2"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13857,7 +14319,7 @@
 			)
 		)
 		(property "MF" "TE Connectivity"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13867,7 +14329,7 @@
 			)
 		)
 		(property "Description_1" "2P,3.81MM,SIDE ENTRY,HIGH TMP | TE Connectivity 1776113-2"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13877,7 +14339,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13887,7 +14349,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13897,7 +14359,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13907,7 +14369,7 @@
 			)
 		)
 		(property "PART_REV" "P"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13917,7 +14379,7 @@
 			)
 		)
 		(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13927,7 +14389,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1776113-2/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13937,7 +14399,7 @@
 			)
 		)
 		(property "MP" "1776113-2"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13947,7 +14409,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=600396&manufacturer=TE Connectivity&part_name=1776113-2&search_term=None"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13957,7 +14419,7 @@
 			)
 		)
 		(property "EU_RoHS_Compliance" "Compliant"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13967,7 +14429,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13977,7 +14439,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TE CONNECTIVITY"
-			(at 276.86 90.17 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
