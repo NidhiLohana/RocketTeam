@@ -9266,16 +9266,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 124.46) (xy 171.45 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "317e5bdf-1cf6-4c3e-910b-0f4569cb2077")
-	)
-	(wire
-		(pts
 			(xy 186.69 157.48) (xy 186.69 163.83)
 		)
 		(stroke
@@ -10106,6 +10096,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 93.98) (xy 124.46 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84bf656a-bcfe-4c32-9863-caf83e9ce9be")
+	)
+	(wire
+		(pts
 			(xy 55.88 171.45) (xy 55.88 170.18)
 		)
 		(stroke
@@ -10163,16 +10163,6 @@
 			(type default)
 		)
 		(uuid "8926dc92-7c0f-4051-848c-53d524939e9c")
-	)
-	(wire
-		(pts
-			(xy 118.11 91.44) (xy 124.46 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a7280bd-53cb-43a5-8579-8a33e07b7542")
 	)
 	(wire
 		(pts
@@ -11606,6 +11596,16 @@
 		)
 		(uuid "184101d5-5ccf-4084-98a6-0042a9e7e623")
 	)
+	(label "ALT_CS"
+		(at 165.1 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "184c307e-e673-48b3-bec8-a3c040e21803")
+	)
 	(label "GND"
 		(at 157.48 175.26 180)
 		(effects
@@ -11645,6 +11645,16 @@
 			(justify left bottom)
 		)
 		(uuid "27635746-7126-4c79-a421-b90720c6b789")
+	)
+	(label "KX_SCK"
+		(at 165.1 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "287fecdd-7bc0-48f1-bf7b-af6026e18edb")
 	)
 	(label "CAN_L2"
 		(at 186.69 149.86 270)
@@ -11756,6 +11766,16 @@
 		)
 		(uuid "39dd4719-d877-4cea-8d70-9bc859efe912")
 	)
+	(label "ALT_SDI"
+		(at 165.1 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b3668a9-930e-4e77-b530-d341a1ea1c5e")
+	)
 	(label "BOOT0"
 		(at 118.11 68.58 0)
 		(effects
@@ -11827,12 +11847,12 @@
 		(uuid "4a06b771-0eed-4f0a-8395-3f544c7b5f6b")
 	)
 	(label "KX_CS"
-		(at 171.45 124.46 0)
+		(at 124.46 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "4ba1fe9e-7c98-4c27-905c-1496e7324d5a")
 	)
@@ -11948,6 +11968,16 @@
 			(justify left bottom)
 		)
 		(uuid "6df4b3d9-3305-4310-b437-83b59bfd1ae5")
+	)
+	(label "ALT_SDO"
+		(at 165.1 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6fcc4f99-e619-49db-b0a7-aaee2ad4c90d")
 	)
 	(label "PC7"
 		(at 254 143.51 180)
@@ -12091,16 +12121,6 @@
 		)
 		(uuid "80142e32-7145-4572-bc8d-e2c16c4d77d4")
 	)
-	(label "ALT_SCLK"
-		(at 165.1 142.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8142ea6b-3a29-4854-88d5-504e1aac2808")
-	)
 	(label "V_IN"
 		(at 52.07 30.48 0)
 		(effects
@@ -12150,16 +12170,6 @@
 			(justify left bottom)
 		)
 		(uuid "8baae5c6-4722-4a27-ac2a-fcb1c0951be8")
-	)
-	(label "ALT_CS"
-		(at 124.46 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8d34ac21-bf6d-4b69-9db8-816f58aee1c6")
 	)
 	(label "V_MAIN"
 		(at 260.35 129.54 0)
@@ -12213,12 +12223,12 @@
 		(uuid "95ca4700-3a3e-42bf-b25d-f136f0935cec")
 	)
 	(label "KX_SDO"
-		(at 165.1 116.84 0)
+		(at 124.46 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "9746e53b-e719-4406-9a78-4df1d1bcde34")
 	)
@@ -12303,16 +12313,6 @@
 		)
 		(uuid "9c8d276c-3b12-4cf2-a752-746217db1b49")
 	)
-	(label "ALT_SDO"
-		(at 118.11 91.44 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a47b9ec9-3508-4f60-8928-9f39eeaab21f")
-	)
 	(label "GND"
 		(at 27.94 147.32 180)
 		(effects
@@ -12373,16 +12373,6 @@
 			(justify right bottom)
 		)
 		(uuid "b21523f1-6387-4256-a40b-3b6451080d74")
-	)
-	(label "KX_SCK"
-		(at 165.1 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b55d1eaf-9644-42ab-8e04-5d4e7a021300")
 	)
 	(label "GND"
 		(at 198.12 48.26 0)
@@ -12651,12 +12641,12 @@
 		(uuid "d8bfeb68-869a-4d00-b2f2-0b3f04c19c55")
 	)
 	(label "KX_SDI"
-		(at 165.1 119.38 0)
+		(at 123.19 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "d915bcb2-c0f4-4b06-a8a7-d29ceb851282")
 	)
@@ -12679,16 +12669,6 @@
 			(justify right bottom)
 		)
 		(uuid "da98fc73-0186-48d9-b532-4f03c7828c8d")
-	)
-	(label "ALT_SDI"
-		(at 124.46 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "db44dda9-f4ed-42c4-b4cd-67db7fd3e703")
 	)
 	(label "ALT_SCLK"
 		(at 35.56 100.33 0)
@@ -12800,6 +12780,16 @@
 			(justify right bottom)
 		)
 		(uuid "f00d5e35-47de-497c-b5a9-5a74f24fdbfa")
+	)
+	(label "ALT_SCLK"
+		(at 165.1 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1573116-66da-49f0-949a-902efba1e3ef")
 	)
 	(label "FLASH_CS"
 		(at 60.96 88.9 180)
@@ -13435,28 +13425,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 87.63 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 87.63 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "d3352501-416d-4467-b7ce-09f04921532d")
 		)
@@ -13530,28 +13498,6 @@
 			)
 		)
 		(property "Description" "High-Speed CAN Transceiver, 1Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8"
-			(at 199.39 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 199.39 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 199.39 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -13651,28 +13597,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 177.8 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 177.8 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 177.8 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -13919,28 +13843,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 71.12 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 71.12 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "5"
 			(uuid "cb16c980-9bb5-4cb8-9b80-2d8a70aff027")
 		)
@@ -14038,28 +13940,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 62.23 170.18 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 62.23 170.18 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "65047236-8860-41d1-a131-db8bb10e28d4")
 		)
@@ -14132,28 +14012,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 66.04 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 66.04 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14249,28 +14107,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 207.01 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 207.01 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "2f3cd167-fc81-40e5-ae0c-483ad2cf8f46")
 		)
@@ -14343,28 +14179,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 102.87 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 102.87 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 102.87 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -14456,28 +14270,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 179.07 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 179.07 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "8dcc69bf-015b-4262-94b4-5453c05b89fb")
 		)
@@ -14549,28 +14341,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 102.87 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 102.87 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 102.87 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -14653,28 +14423,6 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 66.04 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 66.04 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -14921,28 +14669,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 147.32 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 147.32 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "db56ea6a-7150-4778-a449-3abc39555122")
 		)
@@ -15015,28 +14741,6 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 55.88 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 55.88 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 55.88 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -15128,28 +14832,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 163.83 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 163.83 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "21fc3057-28b8-4814-b623-6f896b7082c3")
 		)
@@ -15230,28 +14912,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 46.99 49.53 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 46.99 49.53 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "c3e4505d-c239-40ee-93e6-a4b07b9f37c4")
 		)
@@ -15321,28 +14981,6 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
-			(at 24.13 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 24.13 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 24.13 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15642,28 +15280,6 @@
 				(justify bottom)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 275.59 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 275.59 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "2460b4a9-cbb5-4d14-ad74-44bd3b6c88bc")
 		)
@@ -15735,28 +15351,6 @@
 			)
 		)
 		(property "Description" "VISHAY - SISA96DN-T1-GE3 - MOSFET, N-CH, 30V, 16A, POWERPAK 1212\n\nSource: https://componentsearchengine.com/Datasheets/2/SISS10ADN-T1-GE3.pdf  Datasheet"
-			(at 209.55 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 209.55 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 209.55 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -15875,28 +15469,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 120.65 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 120.65 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "5e818bf2-5cf0-42d6-ac7d-578d957882df")
 		)
@@ -15969,28 +15541,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 83.82 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 83.82 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 83.82 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -16160,28 +15710,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 194.31 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 194.31 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "76756a54-5ebe-44cb-97f2-e8edf302a3be")
 		)
@@ -16340,28 +15868,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 80.01 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 80.01 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "a48721a2-7801-4425-8d23-247f0f3ab13c")
 		)
@@ -16436,28 +15942,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 133.35 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 133.35 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 133.35 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -16549,28 +16033,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 87.63 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 87.63 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "45221cf6-4053-49c4-b19c-e57b02c3b60c")
 		)
@@ -16652,28 +16114,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 31.75 86.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 31.75 86.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "44877c19-e4d1-4c6d-9d99-054b84fb674d")
 		)
@@ -16746,28 +16186,6 @@
 			)
 		)
 		(property "Description" "Barometric pressure sensor, 10cm resolution, 10 to 1200 mbar, I2C and SPI interface up to 20MHz, LGA-8"
-			(at 25.4 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 25.4 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 25.4 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -16876,28 +16294,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 271.78 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 271.78 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "507238c6-a293-4c65-94b5-dbf542c6d3b1")
 		)
@@ -16969,28 +16365,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 109.22 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 109.22 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 109.22 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -17159,28 +16533,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 157.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 157.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "f1198aed-f783-4ae6-9dcc-8c5f0c150711")
 		)
@@ -17252,28 +16604,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 127 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 127 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 127 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -17366,28 +16696,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 270.51 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 270.51 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "39e38e01-b411-4d56-9764-69459707fb2c")
 		)
@@ -17460,28 +16768,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 209.55 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 209.55 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -17575,28 +16861,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 41.91 38.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 41.91 38.1 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "0126a181-eb59-42ee-9f5f-cc564491b824")
 		)
@@ -17670,28 +16934,6 @@
 			)
 		)
 		(property "Description" "High-Speed CAN Transceiver, 1Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8"
-			(at 132.08 179.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 132.08 179.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 132.08 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -17802,28 +17044,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 270.51 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 270.51 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "82fff955-0acb-417e-8bbd-eab85a0a4de0")
 		)
@@ -17914,28 +17134,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 163.83 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 163.83 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "daafd934-0167-4d29-ae15-27390f95f271")
 		)
@@ -18016,28 +17214,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 116.84 196.85 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 116.84 196.85 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "edfbb3e3-a5aa-4925-aa37-6558ceba495f")
 		)
@@ -18108,28 +17284,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 189.23 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 189.23 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 189.23 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -18221,28 +17375,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 30.48 157.48 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 30.48 157.48 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "c213d680-9e53-45f3-abc7-f75ddd6d9a00")
 		)
@@ -18314,28 +17446,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 243.84 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 243.84 147.32 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 243.84 147.32 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18502,28 +17612,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 209.55 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 209.55 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "11"
 			(uuid "84c849cb-5ddd-497b-bf44-286d91b6cb16")
 		)
@@ -18622,28 +17710,6 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 172.72 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 172.72 24.13 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 172.72 24.13 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18809,28 +17875,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 252.73 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 252.73 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "4"
 			(uuid "a2f7c894-015f-4734-8bf6-26a1e053accd")
 		)
@@ -18906,28 +17950,6 @@
 			)
 		)
 		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
-			(at 125.73 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 125.73 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 125.73 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -19023,28 +18045,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 22.86 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 22.86 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "3e90bd6b-8c34-4657-aeab-5fadf48ff89e")
 		)
@@ -19120,28 +18120,6 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
-			(at 95.25 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 95.25 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 95.25 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -19230,28 +18208,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 157.48 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 157.48 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 157.48 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -19497,28 +18453,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 114.3 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 114.3 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "59478fbb-8249-4d53-99bf-bf6bd061b242")
 		)
@@ -19591,28 +18525,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 69.85 20.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 69.85 20.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 69.85 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -19782,28 +18694,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 85.09 20.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 85.09 20.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "23d20b8a-b9af-4c28-bbfe-61ba89d41f27")
 		)
@@ -19876,28 +18766,6 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 207.01 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 207.01 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 207.01 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -20096,28 +18964,6 @@
 				(justify bottom)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 66.04 156.21 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 66.04 156.21 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "N"
 			(uuid "092d0f85-c281-4a0a-9c8d-087d22ee836e")
 		)
@@ -20200,28 +19046,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 260.35 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 260.35 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "cad01ec4-5e3d-459b-ba0f-35d85ed97a08")
 		)
@@ -20293,28 +19117,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 99.06 186.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 99.06 186.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 99.06 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -20473,28 +19275,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 120.65 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 120.65 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 120.65 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -20664,28 +19444,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 224.79 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 224.79 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "a4fcdcb3-2e92-4ca6-891c-bfde83d5d81d")
 		)
@@ -20845,28 +19603,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 30.48 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 30.48 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "8303c1cf-65c5-4d55-ba7b-0c7e0cd7ffa3")
 		)
@@ -20947,28 +19683,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 110.49 156.21 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 110.49 156.21 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "6adb19d6-510d-4d4f-b034-9ff9cbf8d9ed")
 		)
@@ -21040,28 +19754,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 182.88 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 182.88 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 182.88 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -21153,28 +19845,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 114.3 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 114.3 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "aae8fab2-db2f-4229-8c81-28654035c726")
 		)
@@ -21245,28 +19915,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 172.72 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 172.72 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 172.72 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -21348,28 +19996,6 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
 			(at 93.98 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 93.98 180.34 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 93.98 180.34 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21526,28 +20152,6 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 46.99 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 46.99 44.45 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 46.99 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21717,28 +20321,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 270.51 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 270.51 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "6fc2dbcd-1dbe-47c9-b2b2-21c54da4c9d3")
 		)
@@ -21811,28 +20393,6 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 256KB RAM, 100 MHz, 1.7-3.6V, 50 GPIO, LQFP64"
-			(at 144.78 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 144.78 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 144.78 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -22265,28 +20825,6 @@
 				(justify bottom)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 151.13 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 151.13 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "f5ecd982-0d89-4aba-959a-61f73ad9cc89")
 		)
@@ -22446,28 +20984,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 110.49 189.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 110.49 189.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "9ef6ac73-75e3-4b40-89b1-bc59b711b44a")
 		)
@@ -22540,28 +21056,6 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 198.12 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 198.12 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 198.12 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -22720,28 +21214,6 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 87.63 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 87.63 43.18 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 87.63 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22985,28 +21457,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 110.49 162.56 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 110.49 162.56 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "b81d46e6-7e1d-4ded-8565-f40676b6902d")
 		)
@@ -23077,28 +21527,6 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 41.91 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 41.91 35.56 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 41.91 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23189,28 +21617,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 193.04 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 193.04 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "b2f4bbcd-ac6f-4e96-97d7-d69da4c83671")
 		)
@@ -23282,28 +21688,6 @@
 		)
 		(property "Description" "test point"
 			(at 58.42 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 58.42 73.66 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 58.42 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23392,28 +21776,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 27.94 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 27.94 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "0d7eaacf-52b5-4ae9-b356-47fe94d161e4")
 		)
@@ -23485,28 +21847,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 29.21 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 29.21 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -23876,28 +22216,6 @@
 				(justify bottom)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 276.86 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 276.86 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "a0427459-37c8-4f2b-a1df-2741d475b73a")
 		)
@@ -23967,28 +22285,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 271.78 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 271.78 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 271.78 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -24070,28 +22366,6 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 237.49 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 237.49 144.78 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 237.49 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24183,28 +22457,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 260.35 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 260.35 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "035547fa-5381-479d-aee9-5fdeb4da2f84")
 		)
@@ -24276,28 +22528,6 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 135.89 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 135.89 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 135.89 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -24543,28 +22773,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 58.42 68.58 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 58.42 68.58 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "7d0b68d7-f035-4e1e-b5c8-e4836f8d5279")
 		)
@@ -24634,28 +22842,6 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 260.35 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 260.35 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 260.35 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -24737,28 +22923,6 @@
 		)
 		(property "Description" "MOSFET N Channel 30V 5.8A 1.4V @ 250uA 35m @ 5.8A,10V SOT-23(SOT-23-3) RoHS\n\nSource: https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-CJ3400_C19019.pdf  Datasheet"
 			(at 52.07 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 52.07 170.18 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 52.07 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24852,28 +23016,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 66.04 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 66.04 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "393011fd-4d42-4ed3-bbe3-efd12e65b4c9")
 		)
@@ -24945,28 +23087,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 101.6 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 101.6 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 101.6 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -25049,28 +23169,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 247.65 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 247.65 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -25164,28 +23262,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 116.84 158.75 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 116.84 158.75 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "e944e15b-d959-4985-9c63-aa61951a3806")
 		)
@@ -25266,28 +23342,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 48.26 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 48.26 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "06ba362b-7b32-4ef8-b6d2-04b188c5522c")
 		)
@@ -25358,28 +23412,6 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 237.49 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 237.49 151.13 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 237.49 151.13 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25550,28 +23582,6 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
-			(at 33.02 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 33.02 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "ee1dd74d-2d6e-48c7-bf7f-15571d05db75")
 		)
@@ -25646,28 +23656,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 120.65 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 120.65 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
 			(at 120.65 191.77 0)
 			(hide yes)
 			(show_name no)
