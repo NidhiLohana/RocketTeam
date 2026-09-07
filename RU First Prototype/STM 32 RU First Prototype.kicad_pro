@@ -831,7 +831,7 @@
       {
         "filename": "STM 32 RU First Prototype.kicad_sch",
         "name": "STM 32 RU First Prototype",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "73d1f315-8edb-4411-831f-b26c874dd7b7"
       }
     ],
     "used_designators": "",
@@ -840,7 +840,7 @@
   "sheets": [
     [
       "73d1f315-8edb-4411-831f-b26c874dd7b7",
-      "Root"
+      "STM 32 RU First Prototype"
     ]
   ],
   "text_variables": {},
