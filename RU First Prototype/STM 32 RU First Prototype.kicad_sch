@@ -8403,6 +8403,12 @@
 		(uuid "13208131-61c5-4022-a48f-cc870b618c0b")
 	)
 	(junction
+		(at 36.83 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14758f5e-c3db-464b-b9d7-1adc7959654f")
+	)
+	(junction
 		(at 157.48 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8443,6 +8449,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "253686e2-3984-46bc-aedd-49fa286d8c2b")
+	)
+	(junction
+		(at 57.15 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28e7b0d7-ce92-4ba2-b381-e0e7ed91190e")
 	)
 	(junction
 		(at 179.07 152.4)
@@ -8629,6 +8641,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a17ff882-f251-4c8d-8700-b0a92c699d0a")
+	)
+	(junction
+		(at 87.63 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a224bda5-582e-4d8b-83d1-112ff691b4ca")
 	)
 	(junction
 		(at 215.9 151.13)
@@ -9060,6 +9078,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 88.9) (xy 60.96 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d330e2a-30fd-4896-8bff-fd12d05ac9d5")
+	)
+	(wire
+		(pts
 			(xy 87.63 133.35) (xy 87.63 135.89)
 		)
 		(stroke
@@ -9217,6 +9245,16 @@
 			(type default)
 		)
 		(uuid "263b647b-eea1-4cde-a0a9-da440f5668d4")
+	)
+	(wire
+		(pts
+			(xy 57.15 83.82) (xy 57.15 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "266a9d41-0ca5-45f2-96d3-155e9ccf44d9")
 	)
 	(wire
 		(pts
@@ -9980,6 +10018,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 102.87) (xy 36.83 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "771adb6a-613e-4f33-bb6c-e0701fe7acbb")
+	)
+	(wire
+		(pts
 			(xy 102.87 48.26) (xy 109.22 48.26)
 		)
 		(stroke
@@ -10130,6 +10178,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 120.65) (xy 87.63 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81e4c001-fb6e-448f-9351-d48d186880f8")
+	)
+	(wire
+		(pts
 			(xy 157.48 48.26) (xy 163.83 48.26)
 		)
 		(stroke
@@ -10170,6 +10228,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 102.87) (xy 36.83 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "886dd393-7115-43e9-96d6-d70015328cb1")
+	)
+	(wire
+		(pts
 			(xy 147.32 27.94) (xy 147.32 26.67)
 		)
 		(stroke
@@ -10177,6 +10245,16 @@
 			(type default)
 		)
 		(uuid "88a6345a-341a-4b67-a66f-479b1b92c62b")
+	)
+	(wire
+		(pts
+			(xy 54.61 88.9) (xy 57.15 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88e31e06-6fc6-4745-b3ff-8c4143a1134d")
 	)
 	(wire
 		(pts
@@ -10467,6 +10545,16 @@
 			(type default)
 		)
 		(uuid "9feb52a6-5d01-4327-8945-f03d1e764cb5")
+	)
+	(wire
+		(pts
+			(xy 87.63 130.81) (xy 85.09 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a02cf009-b139-459e-8eab-8e6d91f47704")
 	)
 	(wire
 		(pts
@@ -11260,6 +11348,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 102.87) (xy 35.56 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e802c9cc-b5df-47b0-8073-8af90accb5ac")
+	)
+	(wire
+		(pts
 			(xy 199.39 135.89) (xy 224.79 135.89)
 		)
 		(stroke
@@ -11508,6 +11606,16 @@
 		)
 		(uuid "fe424c9b-53c4-434e-80b5-bca3559a9571")
 	)
+	(wire
+		(pts
+			(xy 93.98 130.81) (xy 87.63 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe759190-dd4c-424c-bc2d-42f553190515")
+	)
 	(label "FLASH_CLK"
 		(at 60.96 91.44 180)
 		(effects
@@ -11529,7 +11637,7 @@
 		(uuid "03ecca28-13b8-48b1-9744-89a62456d4d7")
 	)
 	(label "ALT_CS"
-		(at 35.56 102.87 0)
+		(at 39.37 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12420,7 +12528,7 @@
 		(uuid "ac8a1db7-7df2-43ed-8071-b7de1e6372ec")
 	)
 	(label "KX_CS"
-		(at 85.09 130.81 0)
+		(at 93.98 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12898,7 +13006,7 @@
 		(uuid "f00d5e35-47de-497c-b5a9-5a74f24fdbfa")
 	)
 	(label "FLASH_CS"
-		(at 60.96 88.9 180)
+		(at 54.61 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13933,6 +14041,84 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 62.23 83.82 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "116c7d8e-477d-4f8d-b6de-7cd498c2a856")
+		(property "Reference" "#PWR026"
+			(at 58.42 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 63.246 85.09 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 62.23 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "350dcca2-0742-4aee-a6a2-23b044350c9e")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -17803,6 +17989,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 92.71 120.65 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "608e2eab-1082-418f-899d-ffe4719f4a31")
+		(property "Reference" "#PWR029"
+			(at 88.9 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 93.726 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 92.71 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4f983213-de62-4e95-a91b-d1360eb3a8ea")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Interface_CAN_LIN:TCAN330")
 		(at 132.08 179.07 0)
 		(mirror y)
@@ -19545,6 +19809,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 90.17 120.65 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7fab4e53-b06c-476f-ba35-369738a22893")
+		(property "Reference" "R16"
+			(at 93.218 119.126 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 86.106 119.38 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 90.17 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 90.17 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae936f5d-dcb8-4780-9fd0-e8bdd1cc7864")
+		)
+		(pin "2"
+			(uuid "f44b1e47-aa89-44e0-a512-851342397097")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 39.37 106.68 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "804357f3-c1f1-44a8-8bfa-0d730b73b648")
+		(property "Reference" "R13"
+			(at 42.418 105.156 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 35.306 105.41 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 39.37 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 39.37 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6155ffa7-8df3-40ee-b2b6-297dced94d45")
+		)
+		(pin "2"
+			(uuid "cd33ceeb-7609-4b92-9e6e-9f836d225214")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 116.84 58.42 0)
 		(unit 1)
@@ -19616,6 +20038,85 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 59.69 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "80e19a96-0283-4109-b4c8-10f4bd7a33ee")
+		(property "Reference" "R12"
+			(at 62.738 82.296 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 55.626 82.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 59.69 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 59.69 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "599c7ef3-f4b2-49c3-b453-fd5b9dd919ba")
+		)
+		(pin "2"
+			(uuid "ce4221a2-289f-4195-bdce-8935a5b39862")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -23822,6 +24323,84 @@
 			(project "STM 32 RU First Prototype"
 				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
 					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 41.91 106.68 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ce1e6f0d-fa25-43e2-b9fa-2930fb5171c9")
+		(property "Reference" "#PWR028"
+			(at 38.1 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 42.926 107.95 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 41.91 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 41.91 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f6ab8a9b-d8c9-4ede-af99-c8e6902d4467")
+		)
+		(instances
+			(project "STM 32 RU First Prototype"
+				(path "/73d1f315-8edb-4411-831f-b26c874dd7b7"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
